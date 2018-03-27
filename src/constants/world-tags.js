@@ -288,7 +288,7 @@ export default {
   },
   [worldTagKeys.fallenHegemon]: {
     key: worldTagKeys.fallenHegemon,
-    enemies: 4,
+    enemies: 3,
     friends: 3,
     complications: 4,
     things: 3,
